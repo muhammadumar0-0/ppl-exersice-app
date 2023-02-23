@@ -1,0 +1,19 @@
+/* .ExersiceCardDiv {
+  display:none;
+}; */
+.ExersiceCardDiv {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40vw;
+
+};
+p{
+  font-size: 5vw;
+};
+.CardHeading {
+  font-size: 4vw;
+};
+img {
+  width: 10%;
+};
