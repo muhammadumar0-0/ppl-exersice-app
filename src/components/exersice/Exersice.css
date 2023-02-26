@@ -1,0 +1,12 @@
+.main-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img {
+    width: 50%;
+}
+p {
+    font-size: 4vw;
+}
